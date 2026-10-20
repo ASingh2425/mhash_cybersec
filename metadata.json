@@ -1,0 +1,6 @@
+{
+  "name": "Identity Threat Graph & Containment Platform",
+  "description": "Enterprise organizational identity threat detection, graph-based attack-path analysis, and automated containment engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
